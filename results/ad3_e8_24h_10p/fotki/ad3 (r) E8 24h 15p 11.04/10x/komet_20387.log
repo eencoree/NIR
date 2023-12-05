@@ -1,0 +1,23 @@
+first id .tif len 4
+0;ad3 (R) E8 p15 24h 10x 4.tif
+1;ad3 (R) E8 p15 24h 10x 1.tif
+2;ad3 (R) E8 p15 24h 10x 2.tif
+3;ad3 (R) E8 p15 24h 10x 10.tif
+4;ad3 (R) E8 p15 24h 10x 9.tif
+5;ad3 (R) E8 p15 24h 10x 6.tif
+6;ad3 (R) E8 p15 24h 10x 3.tif
+7;ad3 (R) E8 p15 24h 10x 7.tif
+8;ad3 (R) E8 p15 24h 10x 5.tif
+9;ad3 (R) E8 p15 24h 10x 11.tif
+10;ad3 (R) E8 p15 24h 10x 8.tif
+1 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 4 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 4_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 1 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 1_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 2 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 2_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 10 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 10_step_1_full_mask_10p.ini- comleted with 1 failed nodes
+5 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 9 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 9_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 6 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 6_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 3 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 3_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+8 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 7 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 7_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+9 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 5 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 5_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+10 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 11 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 11_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+11 from 11 /mnt/wdb4/data/cell_images/data/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 8 starting -/mnt/wdb4/data/cell_images/work/fotki/ad3 (r) E8 24h 15p 11.04/10x/ad3 (R) E8 p15 24h 10x 8_step_1_full_mask_10p.ini- comleted with 0 failed nodes

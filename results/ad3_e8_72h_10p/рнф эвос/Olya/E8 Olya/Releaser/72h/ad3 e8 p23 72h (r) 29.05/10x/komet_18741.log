@@ -1,0 +1,9 @@
+first id .tif len 4
+0;ad3 e8 p23 (r) 72h 10x 15.tif
+1;ad3 e8 p23 (r) 72h 10x 25.tif
+2;ad3 e8 p23 (r) 72h 10x 14.tif
+3;ad3 e8 p23 (r) 72h 10x 22.tif
+1 from 4 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/E8 Olya/Releaser/72h/ad3 e8 p23 72h (r) 29.05/10x/ad3 e8 p23 (r) 72h 10x 15 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/E8 Olya/Releaser/72h/ad3 e8 p23 72h (r) 29.05/10x/ad3 e8 p23 (r) 72h 10x 15_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 4 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/E8 Olya/Releaser/72h/ad3 e8 p23 72h (r) 29.05/10x/ad3 e8 p23 (r) 72h 10x 25 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/E8 Olya/Releaser/72h/ad3 e8 p23 72h (r) 29.05/10x/ad3 e8 p23 (r) 72h 10x 25_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 4 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/E8 Olya/Releaser/72h/ad3 e8 p23 72h (r) 29.05/10x/ad3 e8 p23 (r) 72h 10x 14 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/E8 Olya/Releaser/72h/ad3 e8 p23 72h (r) 29.05/10x/ad3 e8 p23 (r) 72h 10x 14_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 4 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/E8 Olya/Releaser/72h/ad3 e8 p23 72h (r) 29.05/10x/ad3 e8 p23 (r) 72h 10x 22 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/E8 Olya/Releaser/72h/ad3 e8 p23 72h (r) 29.05/10x/ad3 e8 p23 (r) 72h 10x 22_step_1_full_mask_10p.ini- comleted with 0 failed nodes

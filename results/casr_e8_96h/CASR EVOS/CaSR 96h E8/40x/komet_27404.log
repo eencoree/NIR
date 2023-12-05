@@ -1,0 +1,9 @@
+first id -cell-mask.tif len 14
+0;CASR M e8 96h c2 f 40x-cell-mask.tif
+1;CASR M e8 96h c2 b 40x-cell-mask.tif
+2;CASR M e8 96h c3 b 40x-cell-mask.tif
+3;CASR M e8 96h c3 f 40x-cell-mask.tif
+1 from 4 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/40x/CASR M e8 96h c2 f 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/40x/CASR M e8 96h c2 f 40x_step_5_cell_shapes.ini- comleted with 0 failed nodes
+2 from 4 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/40x/CASR M e8 96h c2 b 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/40x/CASR M e8 96h c2 b 40x_step_5_cell_shapes.ini- comleted with 0 failed nodes
+3 from 4 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/40x/CASR M e8 96h c3 b 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/40x/CASR M e8 96h c3 b 40x_step_5_cell_shapes.ini- comleted with 0 failed nodes
+4 from 4 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/40x/CASR M e8 96h c3 f 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/40x/CASR M e8 96h c3 f 40x_step_5_cell_shapes.ini- comleted with 0 failed nodes

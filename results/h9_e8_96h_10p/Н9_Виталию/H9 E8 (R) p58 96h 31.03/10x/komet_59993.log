@@ -1,0 +1,15 @@
+first id .tif len 4
+0;H9 E8 p58 (R) 96h 31.03 1 10x.tif
+1;H9 E8 p58 (R) 96h 31.03 3 10x.tif
+2;H9 E8 p58 (R) 96h 31.03 5 10x.tif
+3;H9 E8 p58 (R) 96h 31.03 4 10x.tif
+4;H9 E8 p58 (R) 96h 31.03 7 10x.tif
+5;H9 E8 p58 (R) 96h 31.03 6 10x.tif
+6;H9 E8 p58 (R) 96h 31.03 2 10x.tif
+1 from 7 /mnt/wdb4/data/cell_images/data/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 1 10x starting -/mnt/wdb4/data/cell_images/work/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 1 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 7 /mnt/wdb4/data/cell_images/data/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 3 10x starting -/mnt/wdb4/data/cell_images/work/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 3 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 7 /mnt/wdb4/data/cell_images/data/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 5 10x starting -/mnt/wdb4/data/cell_images/work/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 5 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 7 /mnt/wdb4/data/cell_images/data/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 4 10x starting -/mnt/wdb4/data/cell_images/work/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 4 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 7 /mnt/wdb4/data/cell_images/data/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 7 10x starting -/mnt/wdb4/data/cell_images/work/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 7 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 7 /mnt/wdb4/data/cell_images/data/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 6 10x starting -/mnt/wdb4/data/cell_images/work/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 6 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 7 /mnt/wdb4/data/cell_images/data/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 2 10x starting -/mnt/wdb4/data/cell_images/work/Н9_Виталию/H9 E8 (R) p58 96h 31.03/10x/H9 E8 p58 (R) 96h 31.03 2 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes

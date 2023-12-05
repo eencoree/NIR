@@ -1,0 +1,15 @@
+first id .tif len 4
+0;CASR ENZ mTeSR p45 48h 29.3_6_ 10x.tif
+1;CASR ENZ mTeSR p45 48h 29.3_5_ 10x.tif
+2;CASR ENZ mTeSR p45 48h 29.3_13_ 10x.tif
+3;CASR R mTeSR p45 72h 30.3_5_ 10x.tif
+4;CASR R mTeSR p45 72h 30.3_3_ 10x.tif
+5;CASR R mTeSR p45 72h 30.3_1_ 10x.tif
+6;CASR R mTeSR p45 72h 30.3_6_ 10x.tif
+1 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR ENZ mTeSR p45 48h 29.3_6_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR ENZ mTeSR p45 48h 29.3_6_ 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR ENZ mTeSR p45 48h 29.3_5_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR ENZ mTeSR p45 48h 29.3_5_ 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR ENZ mTeSR p45 48h 29.3_13_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR ENZ mTeSR p45 48h 29.3_13_ 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_5_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_5_ 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_3_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_3_ 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_1_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_1_ 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_6_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_6_ 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes

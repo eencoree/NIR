@@ -1,0 +1,43 @@
+first id -cell-mask.tif len 14
+0;h9 p56 48h (v) 11.1 -cell-mask.tif
+1;h9 p56 48h (v) 3 -cell-mask.tif
+2;h9 p56 48h (v) 4 -cell-mask.tif
+3;h9 p56 48h (v) 4.2 -cell-mask.tif
+4;h9 p56 48h (v) 5 -cell-mask.tif
+5;h9 p56 48h (v) 3.1 -cell-mask.tif
+6;h9 p56 48h (v) 4.1 -cell-mask.tif
+7;h9 p56 48h (v) 11 -cell-mask.tif
+8;h9 p56 48h (v) 2.3 -cell-mask.tif
+9;h9 p56 48h (v) 10.1 -cell-mask.tif
+10;h9 p56 48h (v) 8.1 -cell-mask.tif
+11;h9 p56 48h (v) 7 -cell-mask.tif
+12;h9 p56 48h (v) 9.1 -cell-mask.tif
+13;h9 p56 48h (v) 9 -cell-mask.tif
+14;h9 p56 48h (v) 7.1 -cell-mask.tif
+15;h9 p56 48h (v) 8 -cell-mask.tif
+16;h9 p56 48h (v) 10 -cell-mask.tif
+17;h9 p56 48h (v) 2.2 -cell-mask.tif
+18;h9 p56 48h (v) 7.2 -cell-mask.tif
+19;h9 p56 48h (v) 2 -cell-mask.tif
+20;h9 p56 48h (v) 5.1 -cell-mask.tif
+1 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 11.1  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 11.1 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+2 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 3  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 3 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+3 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 4  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 4 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+4 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 4.2  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 4.2 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+5 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 5  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 5 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+6 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 3.1  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 3.1 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+7 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 4.1  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 4.1 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+8 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 11  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 11 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+9 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 2.3  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 2.3 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+10 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 10.1  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 10.1 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+11 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 8.1  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 8.1 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+12 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 7  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 7 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+13 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 9.1  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 9.1 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+14 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 9  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 9 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+15 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 7.1  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 7.1 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+16 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 8  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 8 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+17 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 10  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 10 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+18 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 2.2  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 2.2 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+19 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 7.2  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 7.2 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+20 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 2  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 2 _step_5_cell_shapes.ini- comleted with 0 failed nodes
+21 from 21 /mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 5.1  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/48h/H9 48h p56 (V) 15.03.23/h9 p56 48h (v) 5.1 _step_5_cell_shapes.ini- comleted with 0 failed nodes

@@ -1,0 +1,9 @@
+first id .tif len 4
+0;cars p41 24h 10x 15.tif
+1;cars p41 24h 10x 11.tif
+2;cars p41 24h 10x 16.tif
+3;cars p41 24h 10x 13.tif
+1 from 4 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 24h E8/10x/cars p41 24h 10x 15 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 24h E8/10x/cars p41 24h 10x 15_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 4 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 24h E8/10x/cars p41 24h 10x 11 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 24h E8/10x/cars p41 24h 10x 11_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 4 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 24h E8/10x/cars p41 24h 10x 16 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 24h E8/10x/cars p41 24h 10x 16_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 4 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 24h E8/10x/cars p41 24h 10x 13 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 24h E8/10x/cars p41 24h 10x 13_step_1_full_mask_10p.ini- comleted with 0 failed nodes

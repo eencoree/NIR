@@ -1,0 +1,11 @@
+first id .tif len 4
+0;H9 p55 10.03.2023 96h 5 10x .tif
+1;H9 p55 10.03.2023 96h 3 10x .tif
+2;H9 p55 10.03.2023 96h 1 10x .tif
+3;H9 p55 10.03.2023 96h 4 10x .tif
+4;H9 p55 10.03.2023 96h 2 10x .tif
+1 from 5 /mnt/wdb4/data/cell_images/data/Н9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 5 10x  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 5 10x _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 5 /mnt/wdb4/data/cell_images/data/Н9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 3 10x  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 3 10x _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 5 /mnt/wdb4/data/cell_images/data/Н9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 1 10x  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 1 10x _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 5 /mnt/wdb4/data/cell_images/data/Н9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 4 10x  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 4 10x _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 5 /mnt/wdb4/data/cell_images/data/Н9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 2 10x  starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/96h/H9 p55 10.03.2023 96h/10x/H9 p55 10.03.2023 96h 2 10x _step_1_full_mask_10p.ini- comleted with 0 failed nodes

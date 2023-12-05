@@ -1,0 +1,5 @@
+first id .tif len 4
+0;CASR M e8 96h c2 10x.tif
+1;CASR M e8 96h c3 10x.tif
+1 from 2 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 96h E8/10x/CASR M e8 96h c2 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/10x/CASR M e8 96h c2 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 2 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 96h E8/10x/CASR M e8 96h c3 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 96h E8/10x/CASR M e8 96h c3 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes

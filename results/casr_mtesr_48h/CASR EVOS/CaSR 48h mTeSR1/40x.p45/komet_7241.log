@@ -1,0 +1,15 @@
+first id -full-mask.tif len 14
+0;CASR R mTeSR p45 72h 30.3_1_ 40x-full-mask.tif
+1;CASR R mTeSR p45 72h 30.3_6_ 40x-full-mask.tif
+2;CASR ENZ mTeSR p45 48h 29.3_18_ 40x-full-mask.tif
+3;CASR ENZ mTeSR p45 48h 29.3_7_ 40x-full-mask.tif
+4;CASR R mTeSR p45 72h 30.3_12_ 40x-full-mask.tif
+5;CASR ENZ mTeSR p45 48h 29.3_8_ 40x-full-mask.tif
+6;CASR R mTeSR p45 72h 30.3_10_ 40x-full-mask.tif
+1 from 7 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR R mTeSR p45 72h 30.3_1_ 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR R mTeSR p45 72h 30.3_1_ 40x_step_3_obraz_contour.ini- comleted with 0 failed nodes
+2 from 7 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR R mTeSR p45 72h 30.3_6_ 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR R mTeSR p45 72h 30.3_6_ 40x_step_3_obraz_contour.ini- comleted with 0 failed nodes
+3 from 7 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR ENZ mTeSR p45 48h 29.3_18_ 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR ENZ mTeSR p45 48h 29.3_18_ 40x_step_3_obraz_contour.ini- comleted with 0 failed nodes
+4 from 7 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR ENZ mTeSR p45 48h 29.3_7_ 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR ENZ mTeSR p45 48h 29.3_7_ 40x_step_3_obraz_contour.ini- comleted with 0 failed nodes
+5 from 7 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR R mTeSR p45 72h 30.3_12_ 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR R mTeSR p45 72h 30.3_12_ 40x_step_3_obraz_contour.ini- comleted with 0 failed nodes
+6 from 7 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR ENZ mTeSR p45 48h 29.3_8_ 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR ENZ mTeSR p45 48h 29.3_8_ 40x_step_3_obraz_contour.ini- comleted with 0 failed nodes
+7 from 7 /mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR R mTeSR p45 72h 30.3_10_ 40x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h mTeSR1/40x.p45/CASR R mTeSR p45 72h 30.3_10_ 40x_step_3_obraz_contour.ini- comleted with 0 failed nodes

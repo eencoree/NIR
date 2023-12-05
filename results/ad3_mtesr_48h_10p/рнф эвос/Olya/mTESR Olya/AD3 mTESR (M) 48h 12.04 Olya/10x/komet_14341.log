@@ -1,0 +1,21 @@
+first id .tif len 4
+0;AD3 (m) mTESR p16 10x 48h 8.tif
+1;AD3 (m) mTESR p16 10x 48h 10.tif
+2;AD3 (m) mTESR p16 10x 48h 9.tif
+3;AD3 (m) mTESR p16 10x 48h 2.tif
+4;AD3 (m) mTESR p16 10x 48h 3.tif
+5;AD3 (m) mTESR p16 10x 48h 7.tif
+6;AD3 (m) mTESR p16 10x 48h 1.tif
+7;AD3 (m) mTESR p16 10x 48h 6.tif
+8;AD3 (m) mTESR p16 10x 48h 4.tif
+9;AD3 (m) mTESR p16 10x 48h 5.tif
+1 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 8 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 8_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 10 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 9 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 9_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 2 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 2_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 3 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 3_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 7 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 7_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 1 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 1_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+8 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 6 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 6_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+9 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 4 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 4_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+10 from 10 /mnt/wdb4/data/cell_images/data/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 5 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/AD3 mTESR (M) 48h 12.04 Olya/10x/AD3 (m) mTESR p16 10x 48h 5_step_1_full_mask_10p.ini- comleted with 0 failed nodes

@@ -1,0 +1,21 @@
+first id .tif len 4
+0;iPS 004 24h p11 10x 8.tif
+1;iPS 004 24h p11 10x 1.tif
+2;iPS 004 24h p11 10x 5.tif
+3;iPS 004 24h p11 10x 2.tif
+4;iPS 004 24h p11 10x 4.tif
+5;iPS 004 24h p11 10x 6.tif
+6;iPS 004 24h p11 10x 3.tif
+7;iPS 004 24h p11 10x 9.tif
+8;iPS 004 24h p11 10x 10.tif
+9;iPS 004 24h p11 10x 7.tif
+1 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 8 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 8_step_1_full_mask_10p.ini- comleted with 1 failed nodes
+2 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 1_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 5 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 5_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 2 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 2_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 4 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 4_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 6 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 6_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 3 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 3_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+8 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 9 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 9_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+9 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 10 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+10 from 10 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 7 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/10x/iPS 004 24h p11 10x 7_step_1_full_mask_10p.ini- comleted with 0 failed nodes

@@ -1,0 +1,15 @@
+first id .tif len 4
+0;CASR R mTeSR p45 72h 30.3_7_ 10x.tif
+1;2 x10.tif
+2;16 x10.tif
+3;CASR R mTeSR p45 72h 30.3_2_ 10x.tif
+4;3 x10.tif
+5;6 x10.tif
+6;CASR R mTeSR p45 72h 30.3_17_ 10x.tif
+1 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 72h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_7_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 72h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_7_ 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 72h mTeSR1/10x.p45/2 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 72h mTeSR1/10x.p45/2 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 72h mTeSR1/10x.p45/16 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 72h mTeSR1/10x.p45/16 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 72h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_2_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 72h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_2_ 10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 72h mTeSR1/10x.p45/3 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 72h mTeSR1/10x.p45/3 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 72h mTeSR1/10x.p45/6 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 72h mTeSR1/10x.p45/6 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 7 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 72h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_17_ 10x starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 72h mTeSR1/10x.p45/CASR R mTeSR p45 72h 30.3_17_ 10x_step_1_full_mask_10p.ini- comleted with 1 failed nodes

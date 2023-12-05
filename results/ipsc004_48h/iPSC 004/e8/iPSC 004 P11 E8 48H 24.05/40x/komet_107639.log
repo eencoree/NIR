@@ -1,0 +1,17 @@
+first id .tif len 4
+0;iPS 004 E8 P11 48H 40x 1.tif
+1;iPS 004 E8 P11 48H 40x 12.tif
+2;iPS 004 E8 P11 48H 40x 3.tif
+3;iPS 004 E8 P11 48H 40x 9.tif
+4;iPS 004 E8 P11 48H 40x 6.tif
+5;iPS 004 E8 P11 48H 40x 10.tif
+6;iPS 004 E8 P11 48H 40x 5.tif
+7;iPS 004 E8 P11 48H 40x 8.tif
+8;iPS 004 E8 P11 48H 40x 14.tif
+9;iPS 004 E8 P11 48H 40x 11.tif
+10;iPS 004 E8 P11 48H 40x 15.tif
+11;iPS 004 E8 P11 48H 40x 13.tif
+12;iPS 004 E8 P11 48H 40x 2.tif
+13;iPS 004 E8 P11 48H 40x 7.tif
+14;iPS 004 E8 P11 48H 40x 4.tif
+1 from 15 /mnt/wdb4/data/cell_images/data/iPSC 004/e8/iPSC 004 P11 E8 48H 24.05/40x/iPS 004 E8 P11 48H 40x 1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 P11 E8 48H 24.05/40x/iPS 004 E8 P11 48H 40x 1_step_1_make_full_mask.ini-

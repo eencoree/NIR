@@ -1,0 +1,21 @@
+first id .tif len 4
+0;h9_p56_24h_(v)_8_10x.tif
+1;h9_p56_24h_(v)_3_10x.tif
+2;h9_p56_24h_(v)_10_10x.tif
+3;h9_p56_24h_(v)_6_10x.tif
+4;h9_p56_24h_(v)_5_10x.tif
+5;h9_p56_24h_(v)_2_10x.tif
+6;h9_p56_24h_(v)_1_10x.tif
+7;h9_p56_24h_(v)_9_10x.tif
+8;h9_p56_24h_(v)_7_10x.tif
+9;h9_p56_24h_(v)_4_10x.tif
+1 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_8_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_8_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_3_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_3_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_10_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_10_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_6_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_6_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_5_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_5_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_2_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_2_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_1_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_1_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+8 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_9_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_9_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+9 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_7_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_7_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+10 from 10 /mnt/wdb4/data/cell_images/data/Н9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_4_10x starting -/mnt/wdb4/data/cell_images/work/H9_Виталию/24h/h9_p56_24h_(v)_16.03/10x/h9_p56_24h_(v)_4_10x_step_1_full_mask_10p.ini- comleted with 0 failed nodes

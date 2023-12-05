@@ -1,0 +1,15 @@
+first id -full-mask.tif len 14
+0;ad3 (m) mTESR p16 24h 40x 1-full-mask.tif
+1;ad3 (m) mTESR p16 24h 40x 2-full-mask.tif
+2;ad3 (m) mTESR p16 24h 40x 5-full-mask.tif
+3;ad3 (m) mTESR p16 24h 40x 4-full-mask.tif
+4;ad3 (m) mTESR p16 24h 40x 5.1-full-mask.tif
+5;ad3 (m) mTESR p16 24h 40x 3-full-mask.tif
+6;ad3 (m) mTESR p16 24h 40x 6-full-mask.tif
+1 from 7 /mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 1 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 1_step_3_obraz_contour.ini- comleted with 0 failed nodes
+2 from 7 /mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 2 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 2_step_3_obraz_contour.ini- comleted with 0 failed nodes
+3 from 7 /mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 5 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 5_step_3_obraz_contour.ini- comleted with 0 failed nodes
+4 from 7 /mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 4 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 4_step_3_obraz_contour.ini- comleted with 0 failed nodes
+5 from 7 /mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 5.1 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 5.1_step_3_obraz_contour.ini- comleted with 0 failed nodes
+6 from 7 /mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 3 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 3_step_3_obraz_contour.ini- comleted with 0 failed nodes
+7 from 7 /mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 6 starting -/mnt/wdb4/data/cell_images/work/рнф эвос/Olya/mTESR Olya/ad3 (m) mTESR p15 24h 11.04 Olya/40x/ad3 (m) mTESR p16 24h 40x 6_step_3_obraz_contour.ini- comleted with 0 failed nodes

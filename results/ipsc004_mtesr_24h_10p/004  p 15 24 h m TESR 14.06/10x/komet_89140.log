@@ -1,0 +1,21 @@
+first id .tif len 4
+0;iPSCs 004  p 15 24 h m TESR 10x 4 tif.tif
+1;iPSCs 004  p 15 24 h m TESR 10x 5 tif.tif
+2;iPSCs 004  p 15 24 h m TESR 10x 2 tif.tif
+3;iPSCs 004  p 15 24 h m TESR 10x 8 tif.tif
+4;iPSCs 004  p 15 24 h m TESR 10x 7 tif.tif
+5;iPSCs 004  p 15 24 h m TESR 10x 11.7tif.tif
+6;iPSCs 004  p 15 24 h m TESR 10x 15 tif.tif
+7;iPSCs 004  p 15 24 h m TESR 10x 14 tif.tif
+8;iPSCs 004  p 15 24 h m TESR 10x 10tif.tif
+9;iPSCs 004  p 15 24 h m TESR 10x 1 tif.tif
+1 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 4 tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 4 tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 5 tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 5 tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 2 tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 2 tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 8 tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 8 tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 7 tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 7 tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 11.7tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 11.7tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 15 tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 15 tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+8 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 14 tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 14 tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+9 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 10tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 10tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+10 from 10 /mnt/wdb4/data/cell_images/data/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 1 tif starting -/mnt/wdb4/data/cell_images/work/004  p 15 24 h m TESR 14.06/10x/iPSCs 004  p 15 24 h m TESR 10x 1 tif_step_1_full_mask_10p.ini- comleted with 0 failed nodes

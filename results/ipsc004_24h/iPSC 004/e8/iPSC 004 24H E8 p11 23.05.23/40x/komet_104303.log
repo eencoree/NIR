@@ -1,0 +1,57 @@
+first id -cell-mask.tif len 14
+0;iPS 004 24h p11 40x 18-cell-mask.tif
+1;iPS 004 24h p11 40x 19-cell-mask.tif
+2;iPS 004 24h p11 40x 4-cell-mask.tif
+3;iPS 004 24h p11 40x 9-cell-mask.tif
+4;iPS 004 24h p11 40x 13-cell-mask.tif
+5;iPS 004 24h p11 40x 11.1-cell-mask.tif
+6;iPS 004 24h p11 40x 5-cell-mask.tif
+7;iPS 004 24h p11 40x 11-cell-mask.tif
+8;iPS 004 24h p11 40x 7-cell-mask.tif
+9;iPS 004 24h p11 40x 15-cell-mask.tif
+10;iPS 004 24h p11 40x 1-cell-mask.tif
+11;iPS 004 24h p11 40x 17-cell-mask.tif
+12;iPS 004 24h p11 40x 10-cell-mask.tif
+13;iPS 004 24h p11 40x 17.1-cell-mask.tif
+14;iPS 004 24h p11 40x 8-cell-mask.tif
+15;iPS 004 24h p11 40x 3-cell-mask.tif
+16;iPS 004 24h p11 40x 12-cell-mask.tif
+17;iPS 004 24h p11 40x 7.1-cell-mask.tif
+18;iPS 004 24h p11 40x 22-cell-mask.tif
+19;iPS 004 24h p11 40x 16-cell-mask.tif
+20;iPS 004 24h p11 40x 19.1-cell-mask.tif
+21;iPS 004 24h p11 40x 21.1-cell-mask.tif
+22;iPS 004 24h p11 40x 21-cell-mask.tif
+23;iPS 004 24h p11 40x 14-cell-mask.tif
+24;iPS 004 24h p11 40x 20.1-cell-mask.tif
+25;iPS 004 24h p11 40x 20-cell-mask.tif
+26;iPS 004 24h p11 40x 2-cell-mask.tif
+27;iPS 004 24h p11 40x 16.1-cell-mask.tif
+1 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 18 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 18_step_5_cell_shapes.ini- comleted with 0 failed nodes
+2 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 19 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 19_step_5_cell_shapes.ini- comleted with 0 failed nodes
+3 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 4 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 4_step_5_cell_shapes.ini- comleted with 0 failed nodes
+4 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 9 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 9_step_5_cell_shapes.ini- comleted with 0 failed nodes
+5 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 13 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 13_step_5_cell_shapes.ini- comleted with 0 failed nodes
+6 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 11.1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 11.1_step_5_cell_shapes.ini- comleted with 0 failed nodes
+7 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 5 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 5_step_5_cell_shapes.ini- comleted with 0 failed nodes
+8 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 11 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 11_step_5_cell_shapes.ini- comleted with 0 failed nodes
+9 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 7 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 7_step_5_cell_shapes.ini- comleted with 0 failed nodes
+10 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 15 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 15_step_5_cell_shapes.ini- comleted with 0 failed nodes
+11 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 1_step_5_cell_shapes.ini- comleted with 0 failed nodes
+12 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 17 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 17_step_5_cell_shapes.ini- comleted with 0 failed nodes
+13 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 10 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 10_step_5_cell_shapes.ini- comleted with 0 failed nodes
+14 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 17.1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 17.1_step_5_cell_shapes.ini- comleted with 0 failed nodes
+15 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 8 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 8_step_5_cell_shapes.ini- comleted with 0 failed nodes
+16 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 3 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 3_step_5_cell_shapes.ini- comleted with 0 failed nodes
+17 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 12 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 12_step_5_cell_shapes.ini- comleted with 0 failed nodes
+18 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 7.1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 7.1_step_5_cell_shapes.ini- comleted with 0 failed nodes
+19 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 22 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 22_step_5_cell_shapes.ini- comleted with 0 failed nodes
+20 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 16 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 16_step_5_cell_shapes.ini- comleted with 0 failed nodes
+21 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 19.1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 19.1_step_5_cell_shapes.ini- comleted with 0 failed nodes
+22 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 21.1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 21.1_step_5_cell_shapes.ini- comleted with 0 failed nodes
+23 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 21 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 21_step_5_cell_shapes.ini- comleted with 0 failed nodes
+24 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 14 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 14_step_5_cell_shapes.ini- comleted with 0 failed nodes
+25 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 20.1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 20.1_step_5_cell_shapes.ini- comleted with 0 failed nodes
+26 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 20 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 20_step_5_cell_shapes.ini- comleted with 0 failed nodes
+27 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 2 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 2_step_5_cell_shapes.ini- comleted with 0 failed nodes
+28 from 28 /mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 16.1 starting -/mnt/wdb4/data/cell_images/work/iPSC 004/e8/iPSC 004 24H E8 p11 23.05.23/40x/iPS 004 24h p11 40x 16.1_step_5_cell_shapes.ini- comleted with 0 failed nodes

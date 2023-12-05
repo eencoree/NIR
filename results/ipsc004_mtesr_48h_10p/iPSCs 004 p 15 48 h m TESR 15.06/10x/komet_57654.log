@@ -1,0 +1,19 @@
+first id .tif len 4
+0;iPSCs 004 p 15 48 h m TESR 10x 8 .tif
+1;iPSCs 004 p 15 48 h m TESR 10x 1 .tif
+2;iPSCs 004 p 15 48 h m TESR 10x 3 .tif
+3;iPSCs 004 p 15 48 h m TESR 10x 6 .tif
+4;iPSCs 004 p 15 48 h m TESR 10x 4 .tif
+5;iPSCs 004 p 15 48 h m TESR 10x 9 .tif
+6;iPSCs 004 p 15 48 h m TESR 10x 2 .tif
+7;iPSCs 004 p 15 48 h m TESR 10x 7 .tif
+8;iPSCs 004 p 15 48 h m TESR 10x 5 .tif
+1 from 9 /mnt/wdb4/data/cell_images/data/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 8  starting -/mnt/wdb4/data/cell_images/work/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 8 _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 9 /mnt/wdb4/data/cell_images/data/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 1  starting -/mnt/wdb4/data/cell_images/work/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 1 _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 9 /mnt/wdb4/data/cell_images/data/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 3  starting -/mnt/wdb4/data/cell_images/work/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 3 _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 9 /mnt/wdb4/data/cell_images/data/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 6  starting -/mnt/wdb4/data/cell_images/work/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 6 _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 9 /mnt/wdb4/data/cell_images/data/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 4  starting -/mnt/wdb4/data/cell_images/work/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 4 _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 9 /mnt/wdb4/data/cell_images/data/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 9  starting -/mnt/wdb4/data/cell_images/work/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 9 _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 9 /mnt/wdb4/data/cell_images/data/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 2  starting -/mnt/wdb4/data/cell_images/work/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 2 _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+8 from 9 /mnt/wdb4/data/cell_images/data/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 7  starting -/mnt/wdb4/data/cell_images/work/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 7 _step_1_full_mask_10p.ini- comleted with 0 failed nodes
+9 from 9 /mnt/wdb4/data/cell_images/data/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 5  starting -/mnt/wdb4/data/cell_images/work/iPSCs 004 p 15 48 h m TESR 15.06/10x/iPSCs 004 p 15 48 h m TESR 10x 5 _step_1_full_mask_10p.ini- comleted with 0 failed nodes

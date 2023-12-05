@@ -1,0 +1,17 @@
+first id .tif len 4
+0;1 x10.tif
+1;22 x10.tif
+2;8 x10.tif
+3;11 x10.tif
+4;21 x10.tif
+5;18 x10.tif
+6;9 x10.tif
+7;17 x10.tif
+1 from 8 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h E8/10x/1 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h E8/10x/1 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+2 from 8 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h E8/10x/22 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h E8/10x/22 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+3 from 8 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h E8/10x/8 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h E8/10x/8 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+4 from 8 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h E8/10x/11 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h E8/10x/11 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+5 from 8 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h E8/10x/21 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h E8/10x/21 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+6 from 8 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h E8/10x/18 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h E8/10x/18 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
+7 from 8 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h E8/10x/9 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h E8/10x/9 x10_step_1_full_mask_10p.ini- comleted with 1 failed nodes
+8 from 8 /mnt/wdb4/data/cell_images/data/CASR EVOS/CaSR 48h E8/10x/17 x10 starting -/mnt/wdb4/data/cell_images/work/CASR EVOS/CaSR 48h E8/10x/17 x10_step_1_full_mask_10p.ini- comleted with 0 failed nodes
